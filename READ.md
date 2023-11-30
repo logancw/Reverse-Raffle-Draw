@@ -22,3 +22,8 @@ You may want to use a delay as well to help create space between picks. I have n
 - Program Description:
 
 
+## References
+(Just for future me)
+https://docs.oracle.com/javase/8/docs/api/java/util/Collections.html
+https://docs.oracle.com/javase/8/docs/api/java/util/Scanner.html
+https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html
